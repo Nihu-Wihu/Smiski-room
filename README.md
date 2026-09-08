@@ -9,7 +9,8 @@ I started by getting an account on Onshape! And then I immediately started figur
 
 <img src="https://64.media.tumblr.com/a9e2065a3cebcd6b75ea782d734a1e3b/870b681976b4acfd-48/s250x400/0e58713ee8d62f4909d59f49c88369c83fa84e21.gifv">
 
-Most of the furniture is smooth with rounded corners and a soft pastel color scheme with lots of pastel pink and green accents. 
+Most of the furniture is smooth with rounded corners and a soft pastel color scheme with lots of pastel pink and green accents.
+The plants and their pots were imported from **onshape public.**
 
 **On the Upper Level:** <img src="https://64.media.tumblr.com/a1124593b2639237c639c3dc031e2952/tumblr_inline_p8049glXSk1qid2nw_75sq.gifv">
 - A loft bed with a built-in bookshelf
