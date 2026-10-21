@@ -1,6 +1,9 @@
 # Smiski-room
 **Made for hackclub! And my first attempt at CAD and 3D printing!** <img src="https://64.media.tumblr.com/a2860e019e2fbd8a06b93849ded22e71/tumblr_inline_p7ga3tI5DL1qid2nw_75sq.gifv">
 
+images of the final project!
+<img src="https://mail.google.com/mail/u/0/?ui=2&ik=850dda069e&attid=0.1&permmsgid=msg-a:r-8288574369018858487&th=1a15c4bcfcecfa6d&view=fimg&realattid=1a15c4b07fd2bbc92e61&disp=thd&attbid=ANGjdJ-l8yl5s0f2sistuAtLdBxmxxv2FH8PFOBbhpN254oTYOCduXsuLbmoSkE6jSg-CFgJMT_LRHXPP5lcB6Dr_Jorc-YjHfLy7JyoirJmfnKPX-iUE-HogLLCEh0&ats=2524608000000&sz=w1920-h912&auditContext=forDisplay">
+
 <img src="https://64.media.tumblr.com/a9e2065a3cebcd6b75ea782d734a1e3b/870b681976b4acfd-48/s250x400/0e58713ee8d62f4909d59f49c88369c83fa84e21.gifv">
 
 I started by getting an account on Onshape! And then I immediately started figuring out how to do he dimensions of the room by following the guide...
